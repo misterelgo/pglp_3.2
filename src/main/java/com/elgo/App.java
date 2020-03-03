@@ -12,6 +12,6 @@ public class App
         Employe employe1 = new Employe(2018);
         Vendeur vendeur1 = new Vendeur(200);
         double salaireTotal = employe1.salaire() + vendeur1.salaire();
-        System.out.println("Le salaire total est :"+ salaireTotal);
+        System.out.println("Le salaire total est : "+ salaireTotal);
     }
 }
