@@ -8,7 +8,42 @@
   <component name="ChangeListManager">
     <list default="true" id="5b91f594-4488-43be-9c0d-21e358d8ae2b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pglp_3.2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/pglp_3.2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/elgo/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elgo/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/checkstyle-cachefile" beforeDir="false" afterPath="$PROJECT_DIR$/target/checkstyle-cachefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/checkstyle-result.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/checkstyle-result.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/elgo/AllEmploye.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/elgo/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/elgo/Employe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/elgo/Vendeur.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site-webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site-webapp/css/maven-base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site-webapp/css/maven-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site-webapp/css/print.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site-webapp/css/site.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site-webapp/images/collapsed.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site-webapp/images/expanded.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site-webapp/images/external.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site-webapp/images/icon_error_sml.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site-webapp/images/icon_info_sml.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site-webapp/images/icon_success_sml.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site-webapp/images/icon_warning_sml.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site-webapp/images/logos/build-by-maven-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site-webapp/images/logos/build-by-maven-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site-webapp/images/logos/maven-feather.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site-webapp/images/newwindow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/checkstyle.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/checkstyle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/checkstyle.rss" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/checkstyle.rss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/dependencies.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/dependencies.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/dependency-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/dependency-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/plugin-management.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/plugin-management.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/plugins.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/plugins.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/project-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/project-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/project-reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/project-reports.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/AllEmployeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/elgo/AppTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,8 +101,9 @@
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn compile" />
-      <command value="mvn clean" />
       <command value="checkstyle:checkstyle" />
+      <command value="mvn clean" />
+      <command value="mvn site" />
     </option>
   </component>
   <component name="RunManager">
@@ -107,6 +143,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="278" y="63" width="810" height="680" key="#Intentions" timestamp="1585234830819">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state x="278" y="63" width="810" height="680" key="#Intentions/0.31.1366.737@0.31.1366.737" timestamp="1585234830819" />
     <state x="141" y="60" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583279428498">
       <screen x="0" y="31" width="1366" height="737" />
     </state>
@@ -131,22 +171,22 @@
       <screen x="0" y="31" width="1366" height="737" />
     </state>
     <state x="466" y="160" width="434" height="487" key="FileChooserDialogImpl/0.31.1366.737@0.31.1366.737" timestamp="1583291917149" />
-    <state width="1320" height="109" key="GridCell.Tab.0.bottom" timestamp="1585234332852">
+    <state width="1320" height="109" key="GridCell.Tab.0.bottom" timestamp="1585235500931">
       <screen x="0" y="31" width="1366" height="737" />
     </state>
-    <state width="1320" height="109" key="GridCell.Tab.0.bottom/0.31.1366.737@0.31.1366.737" timestamp="1585234332852" />
-    <state width="1320" height="109" key="GridCell.Tab.0.center" timestamp="1585234332851">
+    <state width="1320" height="109" key="GridCell.Tab.0.bottom/0.31.1366.737@0.31.1366.737" timestamp="1585235500931" />
+    <state width="1320" height="109" key="GridCell.Tab.0.center" timestamp="1585235500930">
       <screen x="0" y="31" width="1366" height="737" />
     </state>
-    <state width="1320" height="109" key="GridCell.Tab.0.center/0.31.1366.737@0.31.1366.737" timestamp="1585234332851" />
-    <state width="1320" height="109" key="GridCell.Tab.0.left" timestamp="1585234332851">
+    <state width="1320" height="109" key="GridCell.Tab.0.center/0.31.1366.737@0.31.1366.737" timestamp="1585235500930" />
+    <state width="1320" height="109" key="GridCell.Tab.0.left" timestamp="1585235500930">
       <screen x="0" y="31" width="1366" height="737" />
     </state>
-    <state width="1320" height="109" key="GridCell.Tab.0.left/0.31.1366.737@0.31.1366.737" timestamp="1585234332851" />
-    <state width="1320" height="109" key="GridCell.Tab.0.right" timestamp="1585234332852">
+    <state width="1320" height="109" key="GridCell.Tab.0.left/0.31.1366.737@0.31.1366.737" timestamp="1585235500930" />
+    <state width="1320" height="109" key="GridCell.Tab.0.right" timestamp="1585235500931">
       <screen x="0" y="31" width="1366" height="737" />
     </state>
-    <state width="1320" height="109" key="GridCell.Tab.0.right/0.31.1366.737@0.31.1366.737" timestamp="1585234332852" />
+    <state width="1320" height="109" key="GridCell.Tab.0.right/0.31.1366.737@0.31.1366.737" timestamp="1585235500931" />
     <state x="0" y="31" width="1022" height="733" key="SettingsEditor" timestamp="1583288646612">
       <screen x="0" y="31" width="1366" height="737" />
     </state>
@@ -159,9 +199,9 @@
       <screen x="0" y="31" width="1366" height="737" />
     </state>
     <state x="429" y="75" width="508" height="657" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.31.1366.737@0.31.1366.737" timestamp="1583279103166" />
-    <state x="342" y="177" width="672" height="677" key="run.anything.popup" timestamp="1583288205075">
+    <state x="316" y="118" width="672" height="677" key="run.anything.popup" timestamp="1585235330061">
       <screen x="0" y="31" width="1366" height="737" />
     </state>
-    <state x="342" y="177" width="672" height="677" key="run.anything.popup/0.31.1366.737@0.31.1366.737" timestamp="1583288205075" />
+    <state x="316" y="118" width="672" height="677" key="run.anything.popup/0.31.1366.737@0.31.1366.737" timestamp="1585235330061" />
   </component>
 </project>
