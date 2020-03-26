@@ -7,19 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b91f594-4488-43be-9c0d-21e358d8ae2b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/pglp_3_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/pglp_3_2_jar/pglp_3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pglp_3.2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/pglp_3.2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/elgo/AllEmploye.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/elgo/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/elgo/Employe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/elgo/Vendeur.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/AllEmployeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/elgo/AppTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +48,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IdeaProjects/pglp_3.1/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -138,26 +127,26 @@
       <screen x="0" y="31" width="1366" height="737" />
     </state>
     <state x="420" y="247" width="525" height="313" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.31.1366.737@0.31.1366.737" timestamp="1583288752558" />
-    <state x="466" y="160" width="434" height="487" key="FileChooserDialogImpl" timestamp="1583283049996">
+    <state x="466" y="160" width="434" height="487" key="FileChooserDialogImpl" timestamp="1583291917149">
       <screen x="0" y="31" width="1366" height="737" />
     </state>
-    <state x="466" y="160" width="434" height="487" key="FileChooserDialogImpl/0.31.1366.737@0.31.1366.737" timestamp="1583283049996" />
-    <state width="1320" height="109" key="GridCell.Tab.0.bottom" timestamp="1583288753314">
+    <state x="466" y="160" width="434" height="487" key="FileChooserDialogImpl/0.31.1366.737@0.31.1366.737" timestamp="1583291917149" />
+    <state width="1320" height="109" key="GridCell.Tab.0.bottom" timestamp="1585234332852">
       <screen x="0" y="31" width="1366" height="737" />
     </state>
-    <state width="1320" height="109" key="GridCell.Tab.0.bottom/0.31.1366.737@0.31.1366.737" timestamp="1583288753314" />
-    <state width="1320" height="109" key="GridCell.Tab.0.center" timestamp="1583288753314">
+    <state width="1320" height="109" key="GridCell.Tab.0.bottom/0.31.1366.737@0.31.1366.737" timestamp="1585234332852" />
+    <state width="1320" height="109" key="GridCell.Tab.0.center" timestamp="1585234332851">
       <screen x="0" y="31" width="1366" height="737" />
     </state>
-    <state width="1320" height="109" key="GridCell.Tab.0.center/0.31.1366.737@0.31.1366.737" timestamp="1583288753314" />
-    <state width="1320" height="109" key="GridCell.Tab.0.left" timestamp="1583288753314">
+    <state width="1320" height="109" key="GridCell.Tab.0.center/0.31.1366.737@0.31.1366.737" timestamp="1585234332851" />
+    <state width="1320" height="109" key="GridCell.Tab.0.left" timestamp="1585234332851">
       <screen x="0" y="31" width="1366" height="737" />
     </state>
-    <state width="1320" height="109" key="GridCell.Tab.0.left/0.31.1366.737@0.31.1366.737" timestamp="1583288753314" />
-    <state width="1320" height="109" key="GridCell.Tab.0.right" timestamp="1583288753314">
+    <state width="1320" height="109" key="GridCell.Tab.0.left/0.31.1366.737@0.31.1366.737" timestamp="1585234332851" />
+    <state width="1320" height="109" key="GridCell.Tab.0.right" timestamp="1585234332852">
       <screen x="0" y="31" width="1366" height="737" />
     </state>
-    <state width="1320" height="109" key="GridCell.Tab.0.right/0.31.1366.737@0.31.1366.737" timestamp="1583288753314" />
+    <state width="1320" height="109" key="GridCell.Tab.0.right/0.31.1366.737@0.31.1366.737" timestamp="1585234332852" />
     <state x="0" y="31" width="1022" height="733" key="SettingsEditor" timestamp="1583288646612">
       <screen x="0" y="31" width="1366" height="737" />
     </state>
